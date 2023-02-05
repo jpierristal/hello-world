@@ -1,0 +1,15 @@
+C:\Users\jpier\OneDrive\Desktop\TP01_POO_II\TP01_Breast_Diagnostic\bin\Debug\net6.0\TP01_Breast_Diagnostic.exe
+C:\Users\jpier\OneDrive\Desktop\TP01_POO_II\TP01_Breast_Diagnostic\bin\Debug\net6.0\TP01_Breast_Diagnostic.deps.json
+C:\Users\jpier\OneDrive\Desktop\TP01_POO_II\TP01_Breast_Diagnostic\bin\Debug\net6.0\TP01_Breast_Diagnostic.runtimeconfig.json
+C:\Users\jpier\OneDrive\Desktop\TP01_POO_II\TP01_Breast_Diagnostic\bin\Debug\net6.0\TP01_Breast_Diagnostic.dll
+C:\Users\jpier\OneDrive\Desktop\TP01_POO_II\TP01_Breast_Diagnostic\bin\Debug\net6.0\TP01_Breast_Diagnostic.pdb
+C:\Users\jpier\OneDrive\Desktop\TP01_POO_II\TP01_Breast_Diagnostic\obj\Debug\net6.0\TP01_Breast_Diagnostic.csproj.AssemblyReference.cache
+C:\Users\jpier\OneDrive\Desktop\TP01_POO_II\TP01_Breast_Diagnostic\obj\Debug\net6.0\TP01_Breast_Diagnostic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jpier\OneDrive\Desktop\TP01_POO_II\TP01_Breast_Diagnostic\obj\Debug\net6.0\TP01_Breast_Diagnostic.AssemblyInfoInputs.cache
+C:\Users\jpier\OneDrive\Desktop\TP01_POO_II\TP01_Breast_Diagnostic\obj\Debug\net6.0\TP01_Breast_Diagnostic.AssemblyInfo.cs
+C:\Users\jpier\OneDrive\Desktop\TP01_POO_II\TP01_Breast_Diagnostic\obj\Debug\net6.0\TP01_Breast_Diagnostic.csproj.CoreCompileInputs.cache
+C:\Users\jpier\OneDrive\Desktop\TP01_POO_II\TP01_Breast_Diagnostic\obj\Debug\net6.0\TP01_Breast_Diagnostic.dll
+C:\Users\jpier\OneDrive\Desktop\TP01_POO_II\TP01_Breast_Diagnostic\obj\Debug\net6.0\refint\TP01_Breast_Diagnostic.dll
+C:\Users\jpier\OneDrive\Desktop\TP01_POO_II\TP01_Breast_Diagnostic\obj\Debug\net6.0\TP01_Breast_Diagnostic.pdb
+C:\Users\jpier\OneDrive\Desktop\TP01_POO_II\TP01_Breast_Diagnostic\obj\Debug\net6.0\TP01_Breast_Diagnostic.genruntimeconfig.cache
+C:\Users\jpier\OneDrive\Desktop\TP01_POO_II\TP01_Breast_Diagnostic\obj\Debug\net6.0\ref\TP01_Breast_Diagnostic.dll
